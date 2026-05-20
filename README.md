@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Chess Engine<br>👯 I’m looking to collaborate on Open Source Projects <br>🤝 I’m looking for help with <br>🌱 I’m currently learning about Options Pricing<br>⚡ Fun Fact<br>"why do programmers always prefer dark mode , because light attracts bugs"
+🔭 I’m currently working on a Chess Engine<br>👯 I’m looking to collaborate on Open Source Projects <br>🌱 I’m currently learning about Options Pricing<br>⚡ Fun Fact<br>"why do programmers always prefer dark mode , because light attracts bugs"
 
 
 ## 🌐 Socials:
